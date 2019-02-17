@@ -1,3 +1,5 @@
+package com.morgan.stringdiff;
+
 public class Application {
   public static void main(String[] args) {
     if (args.length != 2) {

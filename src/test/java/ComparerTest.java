@@ -1,5 +1,7 @@
 import static org.junit.Assert.assertEquals;
 
+import com.morgan.stringdiff.Comparer;
+import com.morgan.stringdiff.InvalidInputException;
 import org.junit.Test;
 
 public class ComparerTest {

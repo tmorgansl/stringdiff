@@ -1,3 +1,5 @@
+package com.morgan.stringdiff;
+
 public class Comparer {
   private Comparer() {}
 

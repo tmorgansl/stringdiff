@@ -1,3 +1,5 @@
+package com.morgan.stringdiff;
+
 public class InvalidInputException extends RuntimeException {
 
   public InvalidInputException(String message) {
